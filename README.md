@@ -1,4 +1,4 @@
-# EX 5: Auditing Cloud Activity Using AWS CloudTrail
+# EX 4: Auditing Cloud Activity Using AWS CloudTrail
 ```
 Name - MOHAMMED FAIZAL J
 Reg No. - 212222100027
